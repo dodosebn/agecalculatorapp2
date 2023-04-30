@@ -1,0 +1,45 @@
+body{
+    background:#D3D3D3 ;
+   
+}
+form{
+    width: 500px;
+    margin:auto;
+    padding: 100px;
+    background:#FFFFFF;
+    font-size: 8px;
+    font-family: Verdana;
+    
+}
+input[type=text] {
+    width: 80%;
+    padding: 5px;
+    font-size:  18px;
+}
+input[type=submit] {
+    padding:5px;
+    font-size: 20px;
+    width: 100px;
+}
+select{
+    font-size:20px;
+    padding: 5px;
+    background: rgb(255,255,255);
+}
+  p{
+    text-align:center;
+color: blue;
+font-weight: 100;
+font-size: 30px;
+padding-right: 60%;
+ }
+ strong{
+    width: 80%;
+    padding: 5px;
+    font-size:  18px;
+    margin-top: 30px;
+    max-height: 30px;
+    outline: 0;
+    height: 100vh;
+ }
+    

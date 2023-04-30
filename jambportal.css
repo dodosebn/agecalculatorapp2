@@ -1,0 +1,101 @@
+body{
+    background-color:green
+}
+  
+form-title, h1{
+    color: #FFFFFF;
+    width:100%;
+    text-align:center;
+
+}
+.hero{
+    width: 70%;
+    padding: 5px;
+    font-size:  10px;
+    padding-left: 0%;
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
+form{
+    width: 1000px;
+    margin:auto;
+    padding: 100px;
+    background:#FFFFFF;
+    font-size: 10px;
+    font-family: Verdana;
+    text-align: center;
+    font-weight: 300;
+}
+input[type=text] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5px 0;
+    padding-bottom: 15px;
+
+}
+
+
+h2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5px 0;
+    margin-top: 5px;
+    max-height: 5px;
+    outline: 0;
+        height: 5vh;
+    text-align: justify;
+    width:45%}
+
+    select{
+        width: 45%;
+        background:rgb(255,255,255);
+        font-size: 20px;
+        font-weight: 100;
+        padding: 5px 0;
+    }
+
+    footer,h4{
+        width: 100%;
+        text-align: center;
+        padding-left: 5px 0;
+color: #FFFFFF;
+    }
+    
+    .form-submit-btn input{
+        display: block;
+        width: 45%;
+        margin-left: 28%;
+        margin-top: 10px;
+        font-size: 20px;
+        padding: 20px;
+        border: none;
+        border-radius: 3px;
+        color: rgb(209, 209, 209);
+        background:rgba(63,114,76,0.7);
+    }
+
+    .hero{
+        display: block;
+        width: 45%;
+        margin-right: 45%;
+        padding:10px ;
+        border: none;
+        border: radius 3px;
+        color: blueviolet;
+        background-color: aquamarine;
+        margin-top: 10px;
+    }
+
+    
+        
+    
+
+
+
+
+
+        
